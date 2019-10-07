@@ -1,0 +1,12 @@
+.main {
+    background-color: aliceblue;
+    height: 800px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.bottom {
+    vertical-align: bottom;
+}
